@@ -2,5 +2,5 @@
 temp/*
 data/*
 result
-testdata
+textSNE/testdata
 tSNE_linux
